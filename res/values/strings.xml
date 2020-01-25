@@ -12352,4 +12352,8 @@
     <string name="bluetooth_connect_access_dialog_negative">Don\u2019t connect</string>
     <!-- Strings for Dialog connect button -->
     <string name="bluetooth_connect_access_dialog_positive">Connect</string>
+
+    <!-- Navbar options -->
+    <string name="navbar_invert_layout_title">Invert Navigation Bar layout</string>
+    <string name="navbar_invert_info">This will swap the \"Back\" and \"Recents\" buttons on the navigation bar</string>
 </resources>
