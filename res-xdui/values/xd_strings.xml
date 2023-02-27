@@ -22,6 +22,10 @@
     <!-- CAF Revision -->
     <string name="caf_rev">CAF revision</string>
 
+    <!-- ExthmUI Maintainer -->
+    <string name="xd_maintainer">OhMyVenyx</string>
+    <string name="xd_maintainer_title">XD maintainer</string>
+
     <!-- xd. fake toolbar -->
     <string name="xd_firmware_info">Firmware information</string>
     <string name="xd_hardware_info">Hardware information</string>
