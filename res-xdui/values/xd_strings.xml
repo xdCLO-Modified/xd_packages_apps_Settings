@@ -19,10 +19,10 @@
     <!-- xd. version -->
     <string name="xd_version">XD revision</string>
 
-    <!-- CAF Revision -->
-    <string name="caf_rev">CAF revision</string>
+    <!-- CLO Revision -->
+    <string name="clo_rev">CLO revision</string>
 
-    <!-- ExthmUI Maintainer -->
+    <!-- xd. Maintainer -->
     <string name="xd_maintainer">OhMyVenyx</string>
     <string name="xd_maintainer_title">XD maintainer</string>
 
@@ -83,7 +83,7 @@
     <string name="xd_about_contributor_cat">Contributor</string>
 
     <!-- xd. About -->
-    <string name="xd_about_desc">xdroid is a custom ROM based on CAF which focusing on simple and minimalism UI while keep maintaining the smoothness and optimization provided by Code Aurora Forum.</string>
+    <string name="xd_about_desc">xdroid is a custom ROM based on CLO which focusing on simple and minimalism UI while keep maintaining the smoothness and optimization provided by Code Linaro.</string>
     <string name="xd_about_core_xyzuan">Jody Yuantoro</string>
     <string name="xd_about_core_xyzuan_role">Founder, Lead Developer and UI Designer</string>
     <string name="xd_about_core_friction">Firman Yanuar</string>

@@ -78,13 +78,13 @@
         android:summary="@string/xd_maintainer"
         settings:enableCopying="true"/>
 
-    <!-- CAF revision -->
+    <!-- CLO revision -->
     <Preference
-        android:key="caf_revision"
+        android:key="clo_revision"
         android:layout="@layout/xd_pref_card_bot"
-        android:title="@string/caf_rev"
+        android:title="@string/clo_rev"
         settings:enableCopying="true"
-        settings:controller="com.android.settings.deviceinfo.firmwareversion.CodeAuroraForumPreferenceController"/>
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.CodeLinaroPreferenceController"/>
 
     <!-- Security FW Category -->
     <Preference

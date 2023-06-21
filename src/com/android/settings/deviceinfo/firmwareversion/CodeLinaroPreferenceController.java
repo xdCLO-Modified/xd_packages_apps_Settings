@@ -22,12 +22,12 @@ import androidx.annotation.VisibleForTesting;
 import com.android.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
-public class CodeAuroraForumPreferenceController extends BasePreferenceController {
+public class CodeLinaroPreferenceController extends BasePreferenceController {
 
     @VisibleForTesting
-    private static final String CAF_REV = "ro.caf.revision.tag";
+    private static final String CLO_REV = "ro.clo.revision.tag";
 
-    public CodeAuroraForumPreferenceController(Context context, String preferenceKey) {
+    public CodeLinaroPreferenceController(Context context, String preferenceKey) {
         super(context, preferenceKey);
     }
 
@@ -38,7 +38,7 @@ public class CodeAuroraForumPreferenceController extends BasePreferenceControlle
 
     @Override
     public CharSequence getSummary() {
-        return SystemProperties.get(CAF_REV,
+        return SystemProperties.get(CLO_REV,
                 mContext.getString(R.string.device_info_default));
     }
 }
